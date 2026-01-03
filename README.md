@@ -19,7 +19,17 @@ DAY 2
 <img width="1912" height="1007" alt="Screenshot 2026-01-02 145213" src="https://github.com/user-attachments/assets/54a505f9-b190-45eb-a200-e74451755462" />
 <img width="1914" height="1010" alt="Screenshot 2026-01-02 145232" src="https://github.com/user-attachments/assets/87f6e0f2-5663-4309-8dea-3d1c2c41d874" />
 <img width="1914" height="1002" alt="Screenshot 2026-01-02 145246" src="https://github.com/user-attachments/assets/a71c67b3-f10d-47e9-89ea-4dab5b85db49" />
+DAY 3 
+<img width="1280" height="1062" alt="image" src="https://github.com/user-attachments/assets/068dbce2-b1d9-4ff1-a1bd-4e4cce17d93d" />
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/c8f45a84-3643-4724-be06-584328729a47" />
+<img width="1280" height="1136" alt="image" src="https://github.com/user-attachments/assets/82d03bbd-513a-4deb-b25e-d5b1d0026e61" />
+<img width="1280" height="750" alt="image" src="https://github.com/user-attachments/assets/261f125b-632d-4980-a234-b9e79bc8ece8" />
+<img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/4d782690-13c5-41fd-adc9-5b4503bcc1a7" />
+<img width="1600" height="940" alt="image" src="https://github.com/user-attachments/assets/4f235254-e140-404a-bd64-8a0763d7a0fc" />
+<img width="1600" height="1348" alt="image" src="https://github.com/user-attachments/assets/c67e7553-655e-4e0e-898f-fefae5651310" />
+<img width="1280" height="736" alt="image" src="https://github.com/user-attachments/assets/19af031f-2daf-4e4e-b161-452e423d874d" />
 
+<img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/127a2275-7997-4305-a4fe-dbed05731a75" />
 
 
 
