@@ -28,8 +28,21 @@ DAY 3
 <img width="1600" height="940" alt="image" src="https://github.com/user-attachments/assets/4f235254-e140-404a-bd64-8a0763d7a0fc" />
 <img width="1600" height="1348" alt="image" src="https://github.com/user-attachments/assets/c67e7553-655e-4e0e-898f-fefae5651310" />
 <img width="1280" height="736" alt="image" src="https://github.com/user-attachments/assets/19af031f-2daf-4e4e-b161-452e423d874d" />
-
 <img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/127a2275-7997-4305-a4fe-dbed05731a75" />
+DAY 4
+<img width="1913" height="997" alt="Screenshot 2026-01-04 234906" src="https://github.com/user-attachments/assets/d6fffb0b-f17a-4abd-9ba8-a541f757c8c3" />
+
+<img width="1919" height="1009" alt="Screenshot 2026-01-04 234920" src="https://github.com/user-attachments/assets/eb26f590-c726-4572-878b-fb577fbeb174" />
+<img width="1918" height="1007" alt="Screenshot 2026-01-04 235001" src="https://github.com/user-attachments/assets/cd1bb76d-4410-4cf7-97c6-2ef2c04e3221" />
+<img width="1919" height="999" alt="Screenshot 2026-01-04 235015" src="https://github.com/user-attachments/assets/d9935119-e18d-411b-80b6-ce72334f14d2" />
+<img width="1918" height="994" alt="Screenshot 2026-01-04 235030" src="https://github.com/user-attachments/assets/56ac5548-76e0-4408-ad58-27c614cab9e4" />
+<img width="1917" height="1001" alt="Screenshot 2026-01-04 235117" src="https://github.com/user-attachments/assets/dff44e73-0257-4e7e-afdd-a60dc99de71e" />
+<img width="1919" height="1006" alt="Screenshot 2026-01-04 235130" src="https://github.com/user-attachments/assets/e0239867-8d26-47ff-bac1-3c6940a9fa41" />
+
+<img width="1917" height="1008" alt="Screenshot 2026-01-04 235227" src="https://github.com/user-attachments/assets/f3bcbc09-7bca-4797-b37d-b1458f7b02c7" />
+<img width="1915" height="1004" alt="Screenshot 2026-01-04 235237" src="https://github.com/user-attachments/assets/0d0cc9da-278a-4d3e-a3df-750c36300f64" />
+![Uploading Screenshot 2026-01-04 235143.png…]()
+
 
 
 
